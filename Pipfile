@@ -11,9 +11,10 @@ black = "*"
 pillow = "*"
 django-seed = "*"
 django = "*"
+djangorestframework = "*"
 
 [requires]
-python_version = "3.8.2"
+python_version = "3.9.0"
 
 [pipenv]
 allow_prereleases = true
